@@ -10,4 +10,8 @@ Circuit Design:
 A video showing the different modes that can be achieved by this simulation through modifying body temperature and room temperature can be found in this link:
 https://drive.google.com/file/d/1jDQIhmg9NlYsCCwQCBueJLonMEKlbm3R/view?usp=sharing
 
+More realistic model for future work:
+
+![Frame 5](https://github.com/Deepikaa255/Thermal-Wear-for-Hypothermia/assets/100844703/98240afd-a2e6-4ef6-8acd-a4105782656d)
+
 
